@@ -76,14 +76,6 @@ terraform {
 }
 ```
 
-### Regional Deployment
-
-The default deployment is in `ap-southeast-3` (Jakarta). To change regions, update:
-
-- Provider region in `00-terraform.tf`
-- Backend region in `00-terraform.tf`
-- Python client region in `main.py`
-
 ## Data Schema
 
 Events sent to the pipeline should follow this schema:
