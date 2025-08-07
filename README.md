@@ -1,6 +1,9 @@
 # AWS Analytics Pipeline with Terraform
 
-A complete AWS analytics pipeline built with Terraform that demonstrates real-time data streaming and processing using AWS services.
+A complete AWS analytics pipeline built with Terraform that demonstrates near real-time data streaming and processing using AWS services.
+
+Full Medium Blog:
+https://medium.com/@fauzanvaldera/building-a-serverless-data-pipeline-using-aws-firehose-s3-glue-data-catalog-and-athena-a43495965baa
 
 ## Architecture
 
